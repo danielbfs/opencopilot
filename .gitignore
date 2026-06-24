@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+env/
+
+# Ambiente / segredos
+.env
+*.env
+
+# Ferramentas
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Editores
+.vscode/
+.idea/
+*.swp
+
+# SO
+.DS_Store
+Thumbs.db
+
+# Dados locais / volumes
+data/
+pgdata/
+ollama/
