@@ -14,3 +14,5 @@ do ambiente (embeddings gerados localmente).
 ## Documentação
 
 - [Spec da Camada 1](docs/superpowers/specs/2026-06-24-camada1-busca-semantica-design.md)
+- [Plano de implementação da Camada 1](docs/superpowers/plans/2026-06-24-camada1-busca-semantica-plan.md)
+- [Opção de implantação em produção: Cloudflare](docs/deployment/2026-06-25-opcao-cloudflare.md)
